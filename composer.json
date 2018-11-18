@@ -1,0 +1,14 @@
+{
+    "name": "brenosolutions/modelfactory",
+    "description": "Teste",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Breno Vieira",
+            "email": "brenim_vieira@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
